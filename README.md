@@ -99,8 +99,8 @@ The steps to make the project was followed by these steps:
 
 
 <!-- DEMO -->
-## Physical Demo
-[Video demo](https://github.com/user-attachments/assets/bb18f845-3661-407a-9765-85457dd0e163)
+## Video Demo
+[Video link](https://drive.google.com/drive/u/0/folders/1TPkLyazhcuA25PiTi7wyG4RNW8ASKM9D)
 
 <!-- RESOURCES -->
 ## Resources
