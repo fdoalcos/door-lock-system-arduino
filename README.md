@@ -7,7 +7,6 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
 ![Untitledvideo-MadewithClipchamp-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/4029a22e-1fd6-4c77-8d5b-15e952127992)
 
 <!-- tell about the project -->
