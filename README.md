@@ -100,7 +100,7 @@ The steps to make the project was followed by these steps:
 
 <!-- DEMO -->
 ## Video Demo
-[Video link](https://drive.google.com/drive/u/0/folders/1TPkLyazhcuA25PiTi7wyG4RNW8ASKM9D)
+[Video Link](https://drive.google.com/file/d/1r6c4meh_EuEtrr2BybjQ7lLKV6Unnu95/view?usp=drive_link)
 
 <!-- RESOURCES -->
 ## Resources
